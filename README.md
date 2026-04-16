@@ -54,25 +54,32 @@ Mid-month periods show elevated delays despite stable traffic levels, suggesting
 ## Dashboard Visuals
 
 ### 📊 Geographic Distribution of Operational Delays
-![Geographic Distribution of Operational Delays](images/delay_distribution.png)
+![Geographic Distribution of Operational Delays](Images/Geographic.png)
 
 ---
 
-### 📉 Late Night Delay Spike (9 PM – 3 AM)
-![Late Night Spike](images/late_night_spike.png)
+### 📉 Daily Operational Rhythm & Evening System Exhaustion 
+![Daily Operational Rhythm & Evening System Exhaustion](Images/daily.png)
 
 ---
 
-### 📍 Airport Performance Comparison
-![Airport Comparison](images/airport_comparison.png)
+### 📍 NYC Infrastructure Impact_Share of National Tech Delays
+![NYC Infrastructure Impact_Share of National Tech Delays](Images/NYC.png)
 
 ---
 
-### 📈 Volume vs Delay Scatter Plot
-![Volume vs Delay](images/volume_vs_delay.png)
+### 📈 Operational Integrity_Attribution of Hub Performance Failures
+![Operational Integrity_Attribution of Hub Performance Failures](Images/operational.png)
 
 ---
+### 📈 Weekly Volume Distribution & Fault Correlation
+![Weekly Volume Distribution & Fault Correlation](Images/Weekly.png)
 
+---
+### 📈 System Stress Test_Identifying the Critical Saturation Point
+![System Stress Test_Identifying the Critical Saturation Point](Images/system.png)
+
+---
 ## Tools & Methods
 
 - **SQL**
